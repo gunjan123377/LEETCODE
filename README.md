@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/gunjan123377/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/gunjan123377/LEETCODE/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/gunjan123377/LEETCODE/tree/master/0392-is-subsequence) |
+| [0520-detect-capital](https://github.com/gunjan123377/LEETCODE/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/gunjan123377/LEETCODE/tree/master/0742-to-lower-case) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/gunjan123377/LEETCODE/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2235-capitalize-the-title](https://github.com/gunjan123377/LEETCODE/tree/master/2235-capitalize-the-title) |
