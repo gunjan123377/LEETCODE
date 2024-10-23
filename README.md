@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/gunjan123377/LEETCODE/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/gunjan123377/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/gunjan123377/LEETCODE/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/gunjan123377/LEETCODE/tree/master/0392-is-subsequence) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/gunjan123377/LEETCODE/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2502-sort-the-people](https://github.com/gunjan123377/LEETCODE/tree/master/2502-sort-the-people) |
 ## Stack
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gunjan123377/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/gunjan123377/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0392-is-subsequence](https://github.com/gunjan123377/LEETCODE/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gunjan123377/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/gunjan123377/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/gunjan123377/LEETCODE/tree/master/0392-is-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/gunjan123377/LEETCODE/tree/master/0941-sort-array-by-parity) |
 ## Trie
 |  |
