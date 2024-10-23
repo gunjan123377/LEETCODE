@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/gunjan123377/LEETCODE/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/gunjan123377/LEETCODE/tree/master/0049-group-anagrams) |
 | [0594-longest-harmonious-subsequence](https://github.com/gunjan123377/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [0941-sort-array-by-parity](https://github.com/gunjan123377/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gunjan123377/LEETCODE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/gunjan123377/LEETCODE/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/gunjan123377/LEETCODE/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/gunjan123377/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [0941-sort-array-by-parity](https://github.com/gunjan123377/LEETCODE/tree/master/0941-sort-array-by-parity) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gunjan123377/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/gunjan123377/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0941-sort-array-by-parity](https://github.com/gunjan123377/LEETCODE/tree/master/0941-sort-array-by-parity) |
 ## Trie
 |  |
 | ------- |
