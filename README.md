@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/gunjan123377/LEETCODE/tree/master/0392-is-subsequence) |
 | [0742-to-lower-case](https://github.com/gunjan123377/LEETCODE/tree/master/0742-to-lower-case) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/gunjan123377/LEETCODE/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [2235-capitalize-the-title](https://github.com/gunjan123377/LEETCODE/tree/master/2235-capitalize-the-title) |
 | [2502-sort-the-people](https://github.com/gunjan123377/LEETCODE/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
