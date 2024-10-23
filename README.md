@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/gunjan123377/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gunjan123377/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/gunjan123377/LEETCODE/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/gunjan123377/LEETCODE/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/gunjan123377/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/gunjan123377/LEETCODE/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/gunjan123377/LEETCODE/tree/master/0392-is-subsequence) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/gunjan123377/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gunjan123377/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/gunjan123377/LEETCODE/tree/master/0071-simplify-path) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/gunjan123377/LEETCODE/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Dynamic Programming
 |  |
