@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/gunjan123377/LEETCODE/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/gunjan123377/LEETCODE/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/gunjan123377/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/gunjan123377/LEETCODE/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/gunjan123377/LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/gunjan123377/LEETCODE/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/gunjan123377/LEETCODE/tree/master/0392-is-subsequence) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/gunjan123377/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gunjan123377/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/gunjan123377/LEETCODE/tree/master/0071-simplify-path) |
+| [0224-basic-calculator](https://github.com/gunjan123377/LEETCODE/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/gunjan123377/LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/gunjan123377/LEETCODE/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Dynamic Programming
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/gunjan123377/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/gunjan123377/LEETCODE/tree/master/0009-palindrome-number) |
+| [0224-basic-calculator](https://github.com/gunjan123377/LEETCODE/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/gunjan123377/LEETCODE/tree/master/0227-basic-calculator-ii) |
 ## Two Pointers
 |  |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/gunjan123377/LEETCODE/tree/master/0134-gas-station) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/gunjan123377/LEETCODE/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
