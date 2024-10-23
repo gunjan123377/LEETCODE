@@ -7,4 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/gunjan123377/LEETCODE/tree/master/1908-recyclable-and-low-fat-products) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gunjan123377/LEETCODE/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gunjan123377/LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
