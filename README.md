@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gunjan123377/LEETCODE/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/gunjan123377/LEETCODE/tree/master/0049-group-anagrams) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gunjan123377/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0594-longest-harmonious-subsequence](https://github.com/gunjan123377/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/gunjan123377/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [2502-sort-the-people](https://github.com/gunjan123377/LEETCODE/tree/master/2502-sort-the-people) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gunjan123377/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/gunjan123377/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gunjan123377/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/gunjan123377/LEETCODE/tree/master/0392-is-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/gunjan123377/LEETCODE/tree/master/0941-sort-array-by-parity) |
 ## Trie
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gunjan123377/LEETCODE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gunjan123377/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
