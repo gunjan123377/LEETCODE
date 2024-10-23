@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/gunjan123377/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/gunjan123377/LEETCODE/tree/master/0242-valid-anagram) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/gunjan123377/LEETCODE/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [2502-sort-the-people](https://github.com/gunjan123377/LEETCODE/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/gunjan123377/LEETCODE/tree/master/0049-group-anagrams) |
 | [0594-longest-harmonious-subsequence](https://github.com/gunjan123377/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/gunjan123377/LEETCODE/tree/master/0941-sort-array-by-parity) |
+| [2502-sort-the-people](https://github.com/gunjan123377/LEETCODE/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gunjan123377/LEETCODE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Hash Table
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/gunjan123377/LEETCODE/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/gunjan123377/LEETCODE/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/gunjan123377/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [2502-sort-the-people](https://github.com/gunjan123377/LEETCODE/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gunjan123377/LEETCODE/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/gunjan123377/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/gunjan123377/LEETCODE/tree/master/0941-sort-array-by-parity) |
+| [2502-sort-the-people](https://github.com/gunjan123377/LEETCODE/tree/master/2502-sort-the-people) |
 ## Math
 |  |
 | ------- |
